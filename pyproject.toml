@@ -1,0 +1,5 @@
+[project]
+name = "bypassmappingproxy"
+description = "modify immutable types by bypassing mapping proxy"
+version = "0.1.0"
+readme = "README.md"

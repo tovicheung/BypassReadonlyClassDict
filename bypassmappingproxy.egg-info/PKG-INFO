@@ -1,6 +1,10 @@
-# Modifying `sometype.__dict__`
+Metadata-Version: 2.1
+Name: bypassmappingproxy
+Version: 0.1.0
+Summary: modify immutable types by bypassing mapping proxy
+Description-Content-Type: text/markdown
 
-`pip install bypassmappingproxy`
+# Modifying `sometype.__dict__`
 
 You can't directly set an attribute of a builtin type
 ```py

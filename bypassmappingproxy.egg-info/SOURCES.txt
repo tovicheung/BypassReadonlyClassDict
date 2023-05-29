@@ -1,0 +1,7 @@
+README.md
+bypassmappingproxy.py
+pyproject.toml
+bypassmappingproxy.egg-info/PKG-INFO
+bypassmappingproxy.egg-info/SOURCES.txt
+bypassmappingproxy.egg-info/dependency_links.txt
+bypassmappingproxy.egg-info/top_level.txt
