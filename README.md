@@ -20,7 +20,7 @@ Mappingproxy provides a read-only proxy for mapping, which prevents modification
 
 
 ```py
-from bypassmappingproxy as bmp
+import bypassmappingproxy as bmp
 
 assert (1).real == 1
 bmp.type_set(int, "real", 69)
